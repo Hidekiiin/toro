@@ -1,5 +1,5 @@
 {
-  "name": "toro-app",
+  "name": "toro",
   "version": "1.0.0",
   "description": "ランダム音声チャットアプリ",
   "main": "index.js",
