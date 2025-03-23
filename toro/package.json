@@ -1,0 +1,30 @@
+{
+  "name": "toro-app",
+  "version": "1.0.0",
+  "description": "ランダム音声チャットアプリ",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": [
+    "chat",
+    "webrtc",
+    "random",
+    "voice"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "ably": "^1.2.48",
+    "next": "^14.0.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "simple-peer": "^9.11.1",
+    "socket.io": "^4.7.2",
+    "socket.io-client": "^4.7.2",
+    "uuid": "^9.0.1"
+  }
+}
